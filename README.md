@@ -1,6 +1,6 @@
 <img src="Data/59883.jpg" width="400">
 
-# Insurance Claims Assessment
+# Insurance Claims Analysis
 
 ### Problem Description
 
@@ -16,7 +16,7 @@ For the purpose of this project, we are analyzing three datasets:
 
 ### Analysis
 
-- [Jupyter Notebook](https://nbviewer.org/gist/robyndwhite/4bfca51d1166f986fd9ff8692f334fea)
+- [Jupyter Notebook](https://nbviewer.org/gist/robyndwhite/13454892b7342e19f0a150e16a49386f)
 
 - [Insurance Claims Analysis Dashboard](https://public.tableau.com/app/profile/robyn.white/viz/InsuranceClaimsAnalysis_16927356741930/Summary)
 
