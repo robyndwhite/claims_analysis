@@ -1,4 +1,5 @@
 <img src="Data/59883.jpg" width="1000">
+
 # Insurance Claims Assessment
 
 ### Problem Description
