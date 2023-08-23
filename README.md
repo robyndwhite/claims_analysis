@@ -1,4 +1,4 @@
-![Data/59883](Data/59883.jpg)
+![Data/59883](Data/59883.jpg){width=400 height=200}
 # Insurance Claims Assessment
 
 ### Problem Description
