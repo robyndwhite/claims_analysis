@@ -1,4 +1,4 @@
-<img src="Data/59883.jpg" width="400">
+<img src="Data/59883.jpg" width="300">
 
 # Insurance Claims Assessment
 
