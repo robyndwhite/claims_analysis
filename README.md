@@ -1,3 +1,4 @@
+![Data/59883](Data/59883.jpg)
 # Insurance Claims Assessment
 
 ### Problem Description
